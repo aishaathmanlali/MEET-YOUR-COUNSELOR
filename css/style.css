@@ -27,8 +27,8 @@ hr {
   padding: 50px 0 20px;
 }
 
-.contact-me{
-    margin-bottom: 50px;
+.contact-me {
+  margin-bottom: 50px;
 }
 
 .intro {
@@ -68,7 +68,8 @@ a:hover {
   color: #eaf6f6;
 }
 
-p, li {
+p,
+li {
   color: #40514e;
   line-height: 2;
 }
@@ -78,6 +79,21 @@ p, li {
   margin: 100px auto 100px auto;
   text-align: left;
   padding: 20px;
+}
+
+.education-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: center;
+  padding: 20px;
+}
+
+.education-row li {
+  list-style-type: none;
+}
+
+.year {
+  font-family: "Montserrat", sans-serif;
 }
 
 .pro {
@@ -120,6 +136,9 @@ p, li {
   color: #eaf6f6;
   font-size: 0.75rem;
   padding: 20px 0;
+}
+.mobile-number {
+  font-family: "Orbitron", sans-serif;
 }
 
 .btn {
